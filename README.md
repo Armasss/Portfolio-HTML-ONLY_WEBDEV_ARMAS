@@ -1,6 +1,6 @@
 # Armas_Portflio_Using_HTML_Only
 
-This is a simple portfolio that only use HTML and has no CSS and JavaScript. The main focus of this protfolio is to showcase myprogramming or tech related projects and skills that I have along with other information a portfolio has such as a background of myself and my contact details.
+This is a simple portfolio that only use HTML and has no CSS and JavaScript. The main focus of this protfolio is to showcase my programming or tech related projects and skills that I have along with other information a portfolio has such as a background of myself and my contact details.
 
 ## Prerequisites For Cloning are running the site
 
