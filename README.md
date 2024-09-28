@@ -67,46 +67,47 @@ Before cloning the repository, ensure you have the following installed on your s
 
 ## HTML Elements and Tags utilized
 
-1. <p>
+1. p
     I used it on my home, project and skills page to show long paragraphs and descriptions.
 
-2. <table>
+2. table
      I used it to present my project details and skills.
      I used it also to design my site, I put my list inside a table so that i can allign them in te center with out te bullet points hugging the left corner of the screen.
 
-3. Lists
+3. ul, li
     I used it to list down my skills and the technologies used in each of my projects.
 
-4. <Form>
+4. Form 
     It is present in my contact page under contact me. The textfield requires appropriate input which I managed to do by using the proper input validation attributes such as type and required.
 
-5. <H1>..<H6>, Headings
+5. Headings
     I used it to emphasize the importance of texts in my site. My H1 tags are usually used to show the title of each page and H2 tags to show the contents under that specific page.
 
-6. <a>, Links
+6. a, Links
     For my contacts, footer details, and repositories of my projects
 
-7. <img>
+7. img, images
     To show my personal image and to showcase my projects.
 
-8. <header>
+8. header
     This is where i put my navigation links and the H1 tags for the name of the page.
 
-9. <footer>
+9. footer
     This is where my copyright notice and links to my GitHub Profile appear.
 
-10. <section>
+10. section
     I used it to seperate my projects which is appropriate for grouping related contents.
 
-11. <main>
+11. main
     I used it in my project page to show the main content for that page which are my projects.
-12. <nav>
+
+12. nav
     For my navigation links for diffferent pages
 
-13. <br>
+13. br
     I used it with my <p> element to make my text not occupy an entire line when viewed.
 
-14. <hr>
+14. hr
     To separate contents in a page
 
 15. Attributes such as align, bgcolor, color, border, width
