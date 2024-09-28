@@ -59,6 +59,8 @@ Before cloning the repository, ensure you have the following installed on your s
 
 2. Click "Open in Visual Code Studio" or you can do the keyboard command "Ctrl+Shift+A"
 
+3. Once you are in VSCode, open the portfolioweb_Armas folder and select the index.html file.
+
 3. Once it is open, just go to the bottom left corner and click the Go Live Button
 
 ---
