@@ -39,7 +39,7 @@ Before cloning the repository, ensure you have the following installed on your s
 3. Clone the repository using the following command:
 
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/Armasss/Portfolio-HTML-ONLY_WEBDEV_ARMAS
     ```
 
 4. Navigate to the project folder:
